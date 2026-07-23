@@ -5,7 +5,7 @@ Software Engineering undergraduate (BSc Hons IT, SE specialization) at SLIIT, Ka
 - 🔭 Building full-stack apps with the MERN stack, and cloud-native systems with Docker & Kubernetes
 - 🌱 Deepening my DevOps/cloud fundamentals alongside coursework
 - 👀 Looking for a **Software Engineering Intern** role
-- 📫 Reach me: [dulajtck@gmail.com](mailto:dulajtck@gmail.com) · [LinkedIn](https://linkedin.com/in/dulaj-serasinghe-85b8b3405) · [GitHub](https://github.com/dulaj4067)
+- 📫 Reach me: [dulajtck@gmail.com](mailto:dulajtck@gmail.com) · [LinkedIn](https://linkedin.com/in/dulaj-serasinghe-85b8b3405)
 
 ## 🛠 Tech Stack
 
