@@ -9,7 +9,7 @@ Software Engineering undergraduate (BSc Hons IT, SE specialization) at SLIIT, Ka
 
 ## 🛠 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=java,py,js,php,dart,c,react,nodejs,express,flutter,mysql,mongodb,supabase,docker,kubernetes,git,github,postman,figma,jira,vscode,androidstudio,vercel)
+![My Skills](https://skillicons.dev/icons?i=java,py,js,php,dart,c,react,nodejs,express,flutter,mysql,mongodb,supabase,docker,kubernetes,git,github,postman,figma,vscode,androidstudio,vercel)
 
 ## 📌 Featured Projects
 
